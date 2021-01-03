@@ -40,4 +40,6 @@ Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 fr
   </td>
 </table>
 
+## 📈 My GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" />
