@@ -1,4 +1,4 @@
-## Hey there 🪐
+## Hey there <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/hipanda.gif" width="25px">
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://uniqua.xyz)](https://uniqua.xyz)
 [![Website](https://img.shields.io/website?label=karmanhub&style=for-the-badge&url=https://karmanhub.com)](https://karmanhub.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/uniquadev?color=7DF9FF&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUniquaDev&screen_name=Uniqua)
