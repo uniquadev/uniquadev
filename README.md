@@ -17,7 +17,7 @@ Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 fr
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/code.webp" width="500" height="320" />
 
-**Languages and Tools:**  
+**Languages and Tools:**  <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
