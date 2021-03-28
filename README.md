@@ -5,7 +5,7 @@
 <a href="https://discord.gg/HeA78DxBRU">
   <img align="right" alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/lorenzo-cipolletti-15a110208/">
   <img align="right" alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UClOroLB6ltO0zh7MK6TMk1g">
