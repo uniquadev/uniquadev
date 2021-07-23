@@ -30,7 +30,7 @@ Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<table width="100%">
+<table align="center" width="100%">
   
   <tr>
   <td width="100%">
@@ -42,4 +42,4 @@ Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 fr
 
 ## 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
