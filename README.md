@@ -15,8 +15,6 @@
 Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 from Italy.<br>
 *laravel + nuxt ❤️*
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/code.webp" width="500" height="320" />
-
 **Languages and Tools:**  <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,6 +28,12 @@ Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## 📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
+
+## 🎵 Listening
+
 <table align="center" width="100%">
   
   <tr>
@@ -39,7 +43,3 @@ Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 fr
 
   </td>
 </table>
-
-## 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
