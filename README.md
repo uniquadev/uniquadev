@@ -1,6 +1,6 @@
 ## Hey there <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/hellopanda.gif" width="25px">
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://uniqua.xyz)](https://uniqua.xyz)
-[![Website](https://img.shields.io/website?label=karmanhub&style=for-the-badge&url=https://karmanhub.com)](https://karmanhub.com)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://uniqua)](https://uniqua.xyz)
+[![Website](https://img.shields.io/website?label=karmanhub&style=for-the-badge&url=https://karmanhub)](https://karmanhub.com)
 <a href="https://discord.gg/HeA78DxBRU">
   <img align="right" alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
