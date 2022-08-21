@@ -1,4 +1,7 @@
-<div align="center"><img src="uniqua_logo.png" width="700" alt=""></div><br>
+<div align="center">
+  <img src="uniqua_logo.png" width="300" alt=""><br>
+  Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer from Italy.
+</div><br>
 
 <div>
   <img src="https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://uniqua">
@@ -13,13 +16,6 @@
   <a href="https://www.youtube.com/channel/UClOroLB6ltO0zh7MK6TMk1g">
     <img align="right" alt="Uniqua's YT" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
   </a>
-</div>
-<br>
-
-
-<div align="center">
-  Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer 🪐 from Italy.<br>
-  *laravel + nuxt ❤️*
 </div>
 
 <div align="center">
@@ -41,10 +37,10 @@
 </div>
 <br>
 
-<h2 align="center">📈 GitHub Stats </h2>
+<h3 align="center">📈 GitHub Stats </h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
 
-<h2 align="center">🎵 Listening</h2>
+<h3 align="center">🎵 Listening</h3>
 <table align="center" width="100%">
   
   <tr>
