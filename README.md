@@ -20,9 +20,9 @@
 
 <div align="center">
   <h3>
-    <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px">
+    <!-- <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px"> -->
     Languages and Tools:
-    <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px">
+    <!-- <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px"> -->
   </h3>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -37,7 +37,6 @@
 </div>
 <br>
 
-<h3 align="center">📈 GitHub Stats </h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
 
 <h3 align="center">🎵 Listening</h3>
