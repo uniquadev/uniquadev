@@ -39,6 +39,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
 
+<!--
 <h3 align="center">🎵 Listening</h3>
 <table align="center" width="100%">
   
@@ -50,4 +51,6 @@
   </td>
 </table>
 
+
 <div align="center"><img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/hellopanda.gif" width="45px"></div>
+-->
