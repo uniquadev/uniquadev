@@ -7,14 +7,11 @@
   <img src="https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://uniqua">
   <img src="https://img.shields.io/website?label=karmanhub&style=for-the-badge&url=https://karmanhub">
   
-  <a href="https://discord.gg/HeA78DxBRU">
+  <a href="https://discordapp.com/users/277459004282634242">
     <img align="right" alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-cipolletti-15a110208/">
     <img align="right" alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  <a href="https://www.youtube.com/channel/UClOroLB6ltO0zh7MK6TMk1g">
-    <img align="right" alt="Uniqua's YT" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
   </a>
 </div>
 
@@ -37,7 +34,7 @@
 </div>
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uniquadev&show_icons=true&theme=gotham" alt="uniquadev" /> </p>-->
 
 <!--
 <h3 align="center">🎵 Listening</h3>
