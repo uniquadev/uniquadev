@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/website?label=karmanhub&style=for-the-badge&url=https://karmanhub">
   
   <a href="https://discordapp.com/users/277459004282634242">
-    <img align="right" alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    <img align="right" alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" />
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-cipolletti-15a110208/">
-    <img align="right" alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="right" alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
   </a>
 </div>
 
