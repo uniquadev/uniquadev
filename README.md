@@ -3,15 +3,14 @@
   Hi, I'm Lorenzo!, a passionate reverse engineer Full Stack Web Developer from Italy.
 </div><br>
 
-<div>
-  <img src="https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://uniqua">
-  <img src="https://img.shields.io/website?label=karmanhub&style=for-the-badge&url=https://karmanhub">
-  
+<div align="center">
+  <img src="https://img.shields.io/website?label=portfolio-wip&style=for-the-badge&url=https://uniqua">
+  &nbsp;
   <a href="https://discordapp.com/users/277459004282634242">
-    <img align="right" alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" />
-  </a>
+    <img alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/lorenzo-cipolletti-15a110208/">
-    <img align="right" alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
+    <img alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
   </a>
 </div>
 
@@ -21,11 +20,9 @@
     Languages and Tools:
     <!-- <img src="https://raw.githubusercontent.com/UniquaDev/UniquaDev/main/pandahood.gif" width="25px"> -->
   </h3>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
