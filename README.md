@@ -7,7 +7,7 @@
 
 ## I'm familiar with
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,java,lua,luau,python,php,javascript,html,css,mysql,azure,nuxt,flutter,fastapi,laravel,davinci,mysql,git,github,discord)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,cmake,java,lua,luau,python,assembly,php,javascript,html,css,mysql,regex,azure,nuxt,flutter,fastapi,laravel,davinci,illustrator,robloxstudio,godot,git,github,discord)
 
 <!--
 <div align="center">
