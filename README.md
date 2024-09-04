@@ -25,15 +25,9 @@
 
 ## Get in touch
 
-<!--
-<a href="https://discordapp.com/users/277459004282634242">
-  <img alt="Uniqua's Discord" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/lorenzo-cipolletti-15a110208/">
-  <img alt="Uniqua's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
-</a>
--->
-<img src="https://img.shields.io/website?label=portfolio-wip&style=for-the-badge&url=https://uniqua">
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cipolletti-15a110208)
+[![Discord Badge](https://img.shields.io/badge/discord-5563f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/277459004282634242)
+[![Portfolio](https://img.shields.io/badge/UP-008c69?style=for-the-badge&logo=github&logoColor=white&label=portfolio-wip)](https://github.com/uniquadev)
 
 ![](https://komarev.com/ghpvc/?username=uniquadev&base=1000&label=account+views)
 
