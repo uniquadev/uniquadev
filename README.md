@@ -27,7 +27,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cipolletti-15a110208)
 [![Discord Badge](https://img.shields.io/badge/discord-5563f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/277459004282634242)
-[![Portfolio](https://img.shields.io/badge/UP-008c69?style=for-the-badge&logo=github&logoColor=white&label=portfolio-wip)](https://github.com/uniquadev)
+[![Portfolio](https://img.shields.io/badge/UP-008c69?style=for-the-badge&logo=github&logoColor=white&label=portfolio)](https://uniquadev.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=uniquadev&base=1000&label=account+views)
 
